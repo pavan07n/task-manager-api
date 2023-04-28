@@ -1,7 +1,6 @@
 {
   "name": "task-manager",
   "version": "1.0.0",
-  "description": "",
   "main": "mongodb.js",
   "scripts": {
     "start": "node src/index.js",
@@ -24,5 +23,6 @@
   "devDependencies": {
     "env-cmd": "^10.1.0",
     "nodemon": "^2.0.22"
-  }
+  },
+  "description": ""
 }
